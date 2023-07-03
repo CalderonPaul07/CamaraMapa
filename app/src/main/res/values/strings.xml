@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mapa Ubicación</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+</resources>

@@ -1,0 +1,220 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ec.edu.tecnologicoloja.mapslocation"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:5:5-7:35
+12        android:name="android.hardware.camera"
+12-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:6:9-47
+13        android:required="true" />
+13-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:7:9-32
+14
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:9:5-79
+15-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:12:5-67
+17-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:12:22-64
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:13:5-65
+18-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:13:22-62
+19    <uses-permission
+19-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:14:5-16:38
+20        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+20-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:15:9-65
+21        android:maxSdkVersion="32" />
+21-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:16:9-35
+22    <uses-permission
+22-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:17:5-19:38
+23        android:name="android.permission.READ_EXTERNAL_STORAGE"
+23-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:18:9-64
+24        android:maxSdkVersion="32" />
+24-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:19:9-35
+25
+26    <!-- Include required permissions for Google Maps API to run. -->
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+27-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+28
+29    <uses-feature
+29-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+30        android:glEsVersion="0x00020000"
+30-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+31        android:required="true" />
+31-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+32
+33    <queries>
+33-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+34
+35        <!-- Needs to be explicitly declared on Android R+ -->
+36        <package android:name="com.google.android.apps.maps" />
+36-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+36-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+37    </queries>
+38
+39    <permission
+39-->[androidx.core:core:1.9.0] C:\Users\cpaul\.gradle\caches\transforms-3\3e4d093f1e84bcebdc27b603c2d76e72\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+40        android:name="ec.edu.tecnologicoloja.mapslocation.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+40-->[androidx.core:core:1.9.0] C:\Users\cpaul\.gradle\caches\transforms-3\3e4d093f1e84bcebdc27b603c2d76e72\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+41        android:protectionLevel="signature" />
+41-->[androidx.core:core:1.9.0] C:\Users\cpaul\.gradle\caches\transforms-3\3e4d093f1e84bcebdc27b603c2d76e72\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+42
+43    <uses-permission android:name="ec.edu.tecnologicoloja.mapslocation.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+43-->[androidx.core:core:1.9.0] C:\Users\cpaul\.gradle\caches\transforms-3\3e4d093f1e84bcebdc27b603c2d76e72\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+43-->[androidx.core:core:1.9.0] C:\Users\cpaul\.gradle\caches\transforms-3\3e4d093f1e84bcebdc27b603c2d76e72\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+44
+45    <application
+45-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:22:5-77:19
+46        android:allowBackup="true"
+46-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:23:9-35
+47        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+47-->[androidx.core:core:1.9.0] C:\Users\cpaul\.gradle\caches\transforms-3\3e4d093f1e84bcebdc27b603c2d76e72\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+48        android:dataExtractionRules="@xml/data_extraction_rules"
+48-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:24:9-65
+49        android:debuggable="true"
+50        android:extractNativeLibs="false"
+51        android:fullBackupContent="@xml/backup_rules"
+51-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:25:9-54
+52        android:icon="@mipmap/ic_launcher"
+52-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:26:9-43
+53        android:label="@string/app_name"
+53-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:27:9-41
+54        android:roundIcon="@mipmap/ic_launcher_round"
+54-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:28:9-54
+55        android:supportsRtl="true"
+55-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:29:9-35
+56        android:testOnly="true"
+57        android:theme="@style/Theme.MapsLocation" >
+57-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:30:9-50
+58
+59        <!--
+60             TODO: Before you run your application, you need a Google Maps API key.
+61
+62             To get one, follow the directions here:
+63
+64                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+65
+66             Once you have your API key (it starts with "AIza"), define a new property in your
+67             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+68             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+69        -->
+70        <meta-data
+70-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:44:9-46:71
+71            android:name="com.google.android.geo.API_KEY"
+71-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:45:13-58
+72            android:value="AIzaSyDG3qtj_qqIGF0TRs5yNXTSRDpaEo9rAnc" />
+72-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:46:13-68
+73
+74        <activity
+74-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:48:9-57:20
+75            android:name="ec.edu.tecnologicoloja.mapslocation.MapsActivity"
+75-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:49:13-41
+76            android:exported="true"
+76-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:50:13-36
+77            android:label="@string/title_activity_maps" >
+77-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:51:13-56
+78            <intent-filter>
+78-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:52:13-56:29
+79                <action android:name="android.intent.action.MAIN" />
+79-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:53:17-69
+79-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:53:25-66
+80
+81                <category android:name="android.intent.category.LAUNCHER" />
+81-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:55:17-77
+81-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:55:27-74
+82            </intent-filter>
+83        </activity>
+84        <activity
+84-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:58:9-66:20
+85            android:name="ec.edu.tecnologicoloja.mapslocation.MainActivity"
+85-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:59:13-41
+86            android:exported="true" >
+86-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:60:13-36
+87            <intent-filter>
+87-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:52:13-56:29
+88                <action android:name="android.intent.action.MAIN" />
+88-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:53:17-69
+88-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:53:25-66
+89
+90                <category android:name="android.intent.category.LAUNCHER" />
+90-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:55:17-77
+90-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:55:27-74
+91            </intent-filter>
+92        </activity>
+93
+94        <provider
+94-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:68:9-76:20
+95            android:name="androidx.core.content.FileProvider"
+95-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:69:13-62
+96            android:authorities="ec.edu.tecnologicoloja.mapslocation.fileprovider"
+96-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:70:13-83
+97            android:exported="false"
+97-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:71:13-37
+98            android:grantUriPermissions="true" >
+98-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:72:13-47
+99            <meta-data
+99-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:73:13-75:64
+100                android:name="android.support.FILE_PROVIDER_PATHS"
+100-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:74:17-67
+101                android:resource="@xml/file_paths" />
+101-->C:\Users\cpaul\AndroidStudioProjects\MapsLocation\app\src\main\AndroidManifest.xml:75:17-51
+102        </provider>
+103        <!-- Needs to be explicitly declared on P+ -->
+104        <uses-library
+104-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+105            android:name="org.apache.http.legacy"
+105-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+106            android:required="false" />
+106-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\cpaul\.gradle\caches\transforms-3\15171f8bed7983b5e2495155b379f8f6\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+107
+108        <activity
+108-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\cpaul\.gradle\caches\transforms-3\8cdae4cdf7635096af87276b9c5a783a\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+109            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+109-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\cpaul\.gradle\caches\transforms-3\8cdae4cdf7635096af87276b9c5a783a\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+110            android:exported="false"
+110-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\cpaul\.gradle\caches\transforms-3\8cdae4cdf7635096af87276b9c5a783a\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+111-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\cpaul\.gradle\caches\transforms-3\8cdae4cdf7635096af87276b9c5a783a\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+112
+113        <meta-data
+113-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\cpaul\.gradle\caches\transforms-3\898be1102ae6353fe0a15dc887f6efd7\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+114            android:name="com.google.android.gms.version"
+114-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\cpaul\.gradle\caches\transforms-3\898be1102ae6353fe0a15dc887f6efd7\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+115            android:value="@integer/google_play_services_version" />
+115-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\cpaul\.gradle\caches\transforms-3\898be1102ae6353fe0a15dc887f6efd7\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+116
+117        <provider
+117-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cpaul\.gradle\caches\transforms-3\4204b2432a1c07e1e804058eb049f397\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+118            android:name="androidx.startup.InitializationProvider"
+118-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cpaul\.gradle\caches\transforms-3\4204b2432a1c07e1e804058eb049f397\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+119            android:authorities="ec.edu.tecnologicoloja.mapslocation.androidx-startup"
+119-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cpaul\.gradle\caches\transforms-3\4204b2432a1c07e1e804058eb049f397\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+120            android:exported="false" >
+120-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cpaul\.gradle\caches\transforms-3\4204b2432a1c07e1e804058eb049f397\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+121            <meta-data
+121-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cpaul\.gradle\caches\transforms-3\4204b2432a1c07e1e804058eb049f397\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+122                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+122-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cpaul\.gradle\caches\transforms-3\4204b2432a1c07e1e804058eb049f397\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+123                android:value="androidx.startup" />
+123-->[androidx.emoji2:emoji2:1.2.0] C:\Users\cpaul\.gradle\caches\transforms-3\4204b2432a1c07e1e804058eb049f397\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+124            <meta-data
+124-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cpaul\.gradle\caches\transforms-3\3ee252999558ab01a513de3f59ac56bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+125                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+125-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cpaul\.gradle\caches\transforms-3\3ee252999558ab01a513de3f59ac56bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+126                android:value="androidx.startup" />
+126-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\cpaul\.gradle\caches\transforms-3\3ee252999558ab01a513de3f59ac56bb\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+127        </provider>
+128    </application>
+129
+130</manifest>

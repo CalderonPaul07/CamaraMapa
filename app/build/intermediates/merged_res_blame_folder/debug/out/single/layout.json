@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "ec.edu.tecnologicoloja.mapslocation.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "ec.edu.tecnologicoloja.mapslocation.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-mergeDebugResources-30:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\layout\\activity_maps.xml"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable_foto.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable\\foto.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable_ubicacion_guardada.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable\\ubicacion_guardada.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\menu_menu_opciones.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\menu\\menu_opciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable_save.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable\\save.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable_mi_ubicacion.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable\\mi_ubicacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:/xml_file_paths.xml.flat",
+        "source": "ec.edu.tecnologicoloja.mapslocation.app-main-33:/xml/file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable_borrar_2.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable\\borrar_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable_imagen.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable\\imagen.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable_custom_drawable.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable\\custom_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable_ubicacion.png.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable\\ubicacion.png"
+    },
+    {
+        "merged": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-merged_res-31:\\drawable_ubicacion_actual.xml.flat",
+        "source": "C:\\Users\\cpaul\\.gradle\\daemon\\8.0\\ec.edu.tecnologicoloja.mapslocation.app-main-33:\\drawable\\ubicacion_actual.xml"
+    }
+]
